@@ -1,0 +1,3 @@
+C:\Users\Mike Brian\source\repos\CsvAnalyzer\CsvAnalyzer\Debug\CsvAnalyzer.vcxproj.AssemblyReference.cache
+C:\Users\Mike Brian\source\repos\CsvAnalyzer\CsvAnalyzer\Debug\CsvAnalyzer.CsvAnalyzer_frm.resources
+C:\Users\Mike Brian\source\repos\CsvAnalyzer\CsvAnalyzer\Debug\CsvAnalyzer.vcxproj.GenerateResource.cache

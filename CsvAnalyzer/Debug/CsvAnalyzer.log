@@ -1,0 +1,5 @@
+﻿  FileHandler.cpp
+C:\Users\Mike Brian\source\repos\CsvAnalyzer\CsvAnalyzer\FileHandler.h(24,3): warning C4091: 'typedef ': ignored on left of 'CsvAnalyzer::inputData' when no variable is declared
+C:\Users\Mike Brian\source\repos\CsvAnalyzer\CsvAnalyzer\FileHandler.h(34,3): warning C4091: 'typedef ': ignored on left of 'CsvAnalyzer::outputData' when no variable is declared
+  CsvAnalyzer_frm.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  CsvAnalyzer.vcxproj -> C:\Users\Mike Brian\source\repos\CsvAnalyzer\Debug\CsvAnalyzer.exe
